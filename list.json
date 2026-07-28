@@ -3999,6 +3999,126 @@
             "ImageId": "rbxassetid://72886415222626",
             "SoundId": "rbxassetid://72886415222626",
             "Speed": 0.43
-        }
+        },
+		{
+				"Title": "DJ Mix",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://107224845803570",
+				"SoundId": "rbxassetid://107224845803570",
+				"Speed": 0.43
+		},
+		{
+				"Title": "DJ Mix",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://119372419419370",
+				"SoundId": "rbxassetid://119372419419370",
+				"Speed": 0.43
+		},
+		{
+				"Title": "DJ MIX",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://113791317288313",
+				"SoundId": "rbxassetid://113791317288313",
+				"Speed": 0.43
+		},
+		{
+				"Title": "DJ Mix",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://89368687609360",
+				"SoundId": "rbxassetid://89368687609360",
+				"Speed": 0.43
+		},
+		{
+				"Title": "DJ JEDAG JEDUG",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://120960061544650",
+				"SoundId": "rbxassetid://120960061544650",
+				"Speed": 0.43
+		},
+		{
+				"Title": "DJ Campuran Jedag Jedug 2026",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://74929576078766",
+				"SoundId": "rbxassetid://74929576078766",
+				"Speed": 0.43
+		},
+		{
+				"Title": "DJ Campuran Jedag Jedug 2026",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://77098432158923",
+				"SoundId": "rbxassetid://77098432158923",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Drop Enakeun V9 x Menunggu x Rutinitas Randong",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://127690969634328",
+				"SoundId": "rbxassetid://127690969634328",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Indobounce Vol. 227 x Mbecak",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://114059361263608",
+				"SoundId": "rbxassetid://114059361263608",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Indobounce Vol. 227 x Mbecak",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://75716002775520",
+				"SoundId": "rbxassetid://75716002775520",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Indobounce Vol. 227 x Mbecak",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://134149398705310",
+				"SoundId": "rbxassetid://134149398705310",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Indobounce Vol. 227 x Mbecak",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://88396577027247",
+				"SoundId": "rbxassetid://88396577027247",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Resqitalist Vol 1",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://113168353767686",
+				"SoundId": "rbxassetid://113168353767686",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Resqitalist Vol 1",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://103904659060566",
+				"SoundId": "rbxassetid://103904659060566",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Resqitalist Vol 1",
+				"Artist": "DJ Devour",
+				"Genre": "DJ REMIX",
+				"ImageId": "rbxassetid://118990375122803",
+				"SoundId": "rbxassetid://118990375122803",
+				"Speed": 0.43
+		}
     ]
 }
