@@ -4279,6 +4279,622 @@
 				"ImageId": "rbxassetid://107853601512694",
 				"SoundId": "rbxassetid://107853601512694",
 				"Speed": 0.43
+		},
+		{
+				"Title": "Life Goes On",
+				"Artist": "BTS",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://91634440650034",
+				"SoundId": "rbxassetid://91634440650034",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Body to Body",
+				"Artist": "BTS",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://83003354108378",
+				"SoundId": "rbxassetid://83003354108378",
+				"Speed": 0.43
+		},
+		{
+				"Title": "NORMAL",
+				"Artist": "BTS",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://111942431565199",
+				"SoundId": "rbxassetid://111942431565199",
+				"Speed": 0.43
+		},
+		{
+				"Title": "rollerblade",
+				"Artist": "no na",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://101857781546270",
+				"SoundId": "rbxassetid://101857781546270",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Animal",
+				"Artist": "KATSEYE",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://130875651209546",
+				"SoundId": "rbxassetid://130875651209546",
+				"Speed": 0.43
+		},
+		{
+				"Title": "they don’t know ’bout us",
+				"Artist": "BTS",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://75965056620220",
+				"SoundId": "rbxassetid://75965056620220",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Run BTS",
+				"Artist": "BTS",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://106266428935415",
+				"SoundId": "rbxassetid://106266428935415",
+				"Speed": 0.43
+		},
+		{
+				"Title": "SUGAR HONEY ICE TEA",
+				"Artist": "BABYMONSTER",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://137539851022828",
+				"SoundId": "rbxassetid://137539851022828",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Seven (feat. Latto)",
+				"Artist": "Jung Kook",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://102373870208645",
+				"SoundId": "rbxassetid://102373870208645",
+				"Speed": 0.43
+		},
+		{
+				"Title": "XOXZ",
+				"Artist": "IVE",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://132350891768319",
+				"SoundId": "rbxassetid://132350891768319",
+				"Speed": 0.43
+		},
+		{
+				"Title": "LOVE DIVE",
+				"Artist": "IVE",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://140134063487595",
+				"SoundId": "rbxassetid://140134063487595",
+				"Speed": 0.43
+		},
+		{
+				"Title": "BLACKHOLE",
+				"Artist": "IVE",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://83576619706718",
+				"SoundId": "rbxassetid://83576619706718",
+				"Speed": 0.43
+		},
+		{
+				"Title": "I AM",
+				"Artist": "IVE",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://133791026271330",
+				"SoundId": "rbxassetid://133791026271330",
+				"Speed": 0.43
+		},
+		{
+				"Title": "BANG BANG",
+				"Artist": "IVE",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://70903726565606",
+				"SoundId": "rbxassetid://70903726565606",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Violeta",
+				"Artist": "IZ*ONE",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://107175231165563",
+				"SoundId": "rbxassetid://107175231165563",
+				"Speed": 0.43
+		},
+		{
+				"Title": "FIESTA",
+				"Artist": "IZ*ONE",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://103849480204517",
+				"SoundId": "rbxassetid://103849480204517",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Secret Story of the Swan",
+				"Artist": "IZ*ONE",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://92745261691228",
+				"SoundId": "rbxassetid://92745261691228",
+				"Speed": 0.43
+		},
+		{
+				"Title": "La Vie en Rose",
+				"Artist": "IZ*ONE",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://133371825879563",
+				"SoundId": "rbxassetid://133371825879563",
+				"Speed": 0.43
+		},
+		{
+				"Title": "MAGO",
+				"Artist": "GFRIEND",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://132493520980353",
+				"SoundId": "rbxassetid://132493520980353",
+				"Speed": 0.43
+		},
+		{
+				"Title": "ROUGH",
+				"Artist": "GFRIEND",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://85026163884654",
+				"SoundId": "rbxassetid://85026163884654",
+				"Speed": 0.43
+		},
+		{
+				"Title": "우리의 다정한 계절 속에",
+				"Artist": "GFRIEND",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://128746752238614",
+				"SoundId": "rbxassetid://128746752238614",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Me gustas tu",
+				"Artist": "GFRIEND",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://96458088832369",
+				"SoundId": "rbxassetid://96458088832369",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Secret Story of the Swan",
+				"Artist": "IZ*ONE",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://85467201517906",
+				"SoundId": "rbxassetid://85467201517906",
+				"Speed": 0.43
+		},
+		{
+				"Title": "FIESTA",
+				"Artist": "IZ*ONE",
+				"Genre": "KPOP",
+				"ImageId": "rbxassetid://138033799276448",
+				"SoundId": "rbxassetid://138033799276448",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Sampai Nanti",
+				"Artist": "DJ Devour",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://89210738738067",
+				"SoundId": "rbxassetid://89210738738067",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Mantan",
+				"Artist": "Stand Here Alone",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://84290924728968",
+				"SoundId": "rbxassetid://84290924728968",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Kenangan Sebuah Mimpi",
+				"Artist": "DJ Devour",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://131671245752936",
+				"SoundId": "rbxassetid://131671245752936",
+				"Speed": 0.43
+		},
+		{
+				"Title": "JAV",
+				"Artist": "Stand Here Alone",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://71489697756480",
+				"SoundId": "rbxassetid://71489697756480",
+				"Speed": 0.43
+		},
+		{
+				"Title": "33x (Boncek AR Cover)",
+				"Artist": "Perunggu",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://95916171364766",
+				"SoundId": "rbxassetid://95916171364766",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Lihat Kebunku (Pop Punk Cover)",
+				"Artist": "Jeje & Boedak Korporat",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://102622495814897",
+				"SoundId": "rbxassetid://102622495814897",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Ada Titik Titik Di Ujung Doa (Pop Punk Cover)",
+				"Artist": "Sal Priadi & Boedak Korporat",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://115335158625347",
+				"SoundId": "rbxassetid://115335158625347",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Disarankan Di Bandung (Pop Punk Cover)",
+				"Artist": "Dongker & Jason Ranti",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://96668897051131",
+				"SoundId": "rbxassetid://96668897051131",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Bahagia Lagi (Pop Punk Cover)",
+				"Artist": "Piche Kota & Boedak Korporat",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://97048404447017",
+				"SoundId": "rbxassetid://97048404447017",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Negoro Angin (Pop Punk Cover)",
+				"Artist": "Denny Caknan & Boedak Korporat",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://77819811116070",
+				"SoundId": "rbxassetid://77819811116070",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Jangan Paksa Rindu (Beda) (Pop Punk Cover)",
+				"Artist": "Ifan Seventeen & Boedak Korporat",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://79118775665349",
+				"SoundId": "rbxassetid://79118775665349",
+				"Speed": "0.43"
+		},
+		{
+				"Title": "Sesi Potret (Pop Punk Cover)",
+				"Artist": "eńau feat. Ari Lesmana",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://114085656370967",
+				"SoundId": "rbxassetid://114085656370967",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Penyangkalan (Pop Punk Cover)",
+				"Artist": "For Revenge & Boedak Korporat",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://131550799420555",
+				"SoundId": "rbxassetid://131550799420555",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Iqro' (Pop Punk Cover)",
+				"Artist": "Raim Laode & Boedak Korporat",
+				"Genre": "GALAU",
+				"ImageId": "rbxassetid://130876017224362",
+				"SoundId": "rbxassetid://130876017224362",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Mencium Bulan",
+				"Artist": "Tony Q Rastafara",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://133322255393493",
+				"SoundId": "rbxassetid://133322255393493",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Don't Worry",
+				"Artist": "Tony Q Rastafara feat. Steven Coconut",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://96173903154737",
+				"SoundId": "rbxassetid://96173903154737",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Cahayamu",
+				"Artist": "Tony Q Rastafara",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://121167301563170",
+				"SoundId": "rbxassetid://121167301563170",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Hanya Untukmu",
+				"Artist": "Tony Q Rastafara",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://110748977168051",
+				"SoundId": "rbxassetid://110748977168051",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Republik Mafia",
+				"Artist": "Tony Q Rastafara",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://136950164029563",
+				"SoundId": "rbxassetid://136950164029563",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Republik Sulap",
+				"Artist": "Tony Q Rastafara",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://123806790264268",
+				"SoundId": "rbxassetid://123806790264268",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Anak Kampung",
+				"Artist": "Tony Q Rastafara",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://111123163768946",
+				"SoundId": "rbxassetid://111123163768946",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Paris Van Java",
+				"Artist": "Tony Q Rastafara",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://72350076849410",
+				"SoundId": "rbxassetid://72350076849410",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Witing Tresno",
+				"Artist": "Tony Q Rastafara",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://132776713178223",
+				"SoundId": "rbxassetid://132776713178223",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Tak Selalu",
+				"Artist": "Souljah",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://97802578253542",
+				"SoundId": "rbxassetid://97802578253542",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Hingga Ku Jenuh",
+				"Artist": "DJ Devour",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://95615570790173",
+				"SoundId": "rbxassetid://95615570790173",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Welcome to My Paradise",
+				"Artist": "DJ Devour",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://96693515136912",
+				"SoundId": "rbxassetid://96693515136912",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Enggan",
+				"Artist": "Steven & Coconuttreez",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://96087692590394",
+				"SoundId": "rbxassetid://96087692590394",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Long Time No See",
+				"Artist": "Steven & Coconuttreez",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://99465167341883",
+				"SoundId": "rbxassetid://99465167341883",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Serenada",
+				"Artist": "DJ Devour",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://99087886070432",
+				"SoundId": "rbxassetid://99087886070432",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Kembali",
+				"Artist": "Steven & Coconut Treez",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://138233695091086",
+				"SoundId": "rbxassetid://138233695091086",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Gudbye Anjing",
+				"Artist": "Steven & Coconuttreez",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://89960468704456",
+				"SoundId": "rbxassetid://89960468704456",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Bebas Merdeka",
+				"Artist": "Steven & Coconuttreez Ft. Dawo Jun Fan Gung Foo",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://138778617555908",
+				"SoundId": "rbxassetid://138778617555908",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Sisa Rindu",
+				"Artist": "DJ Devour",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://117266474791784",
+				"SoundId": "rbxassetid://117266474791784",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Kuingin Kau Mati Saja",
+				"Artist": "SOULJAH",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://126890680821676",
+				"SoundId": "rbxassetid://126890680821676",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Bilang I Love You",
+				"Artist": "SOULJAH",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://127991450178846",
+				"SoundId": "rbxassetid://127991450178846",
+				"Speed": 0.43
+		},
+		{
+				"Title": "PHP",
+				"Artist": "SOULJAH",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://109228252190650",
+				"SoundId": "rbxassetid://109228252190650",
+				"Speed": 0.43
+		},
+		{
+				"Title": "INI RINDU",
+				"Artist": "SOULJAH",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://100371170860681",
+				"SoundId": "rbxassetid://100371170860681",
+				"Speed": 0.43
+		},
+		{
+				"Title": "I'm Free",
+				"Artist": "SOULJAH",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://72911026672037",
+				"SoundId": "rbxassetid://72911026672037",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Cuma Kamu",
+				"Artist": "Souljah",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://117849712578692",
+				"SoundId": "rbxassetid://117849712578692",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Satu Frekuensi",
+				"Artist": "SOULJAH",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://93547833808717",
+				"SoundId": "rbxassetid://93547833808717",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Bersamamu",
+				"Artist": "SOULJAH",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://125565216310082",
+				"SoundId": "rbxassetid://125565216310082",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Mars Jangkrik",
+				"Artist": "SOULJAH",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://85276156788661",
+				"SoundId": "rbxassetid://85276156788661",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Sudah Sudahlah",
+				"Artist": "SOULJAH",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://100328535075885",
+				"SoundId": "rbxassetid://100328535075885",
+				"Speed": 0.43
+		},
+		{
+				"Title": "DJ Reggae Santai Full Bass",
+				"Artist": "DJ Campuran Reggae",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://108297916552390",
+				"SoundId": "rbxassetid://108297916552390",
+				"Speed": 0.43
+		},
+		{
+				"Title": "DJ Reggae Santai Full Bass",
+				"Artist": "DJ Campuran Reggae",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://85015649088565",
+				"SoundId": "rbxassetid://85015649088565",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Roots Reggae Music",
+				"Artist": "Rebelution",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://127221830970338",
+				"SoundId": "rbxassetid://127221830970338",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Safe and Sound",
+				"Artist": "Rebelution",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://130275036371887",
+				"SoundId": "rbxassetid://130275036371887",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Take Me Home, Country Roads (Reggae Cover)",
+				"Artist": "Tropavibes",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://85958228128963",
+				"SoundId": "rbxassetid://85958228128963",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Tak Selalu",
+				"Artist": "SOULJAH",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://139693987387621",
+				"SoundId": "rbxassetid://139693987387621",
+				"Speed": 0.43
+		},
+		{
+				"Title": "So High",
+				"Artist": "Rebelution",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://116517242776074",
+				"SoundId": "rbxassetid://116517242776074",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Feeling Alright",
+				"Artist": "Rebelution",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://120810694034072",
+				"SoundId": "rbxassetid://120810694034072",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Attention Span",
+				"Artist": "Rebelution",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://79195121440054",
+				"SoundId": "rbxassetid://79195121440054",
+				"Speed": 0.43
+		},
+		{
+				"Title": "Bump",
+				"Artist": "Rebelution",
+				"Genre": "CAMPUR",
+				"ImageId": "rbxassetid://126112235701485",
+				"SoundId": "rbxassetid://126112235701485",
+				"Speed": 0.43
 		}
     ]
 }
