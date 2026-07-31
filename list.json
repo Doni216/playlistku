@@ -8639,6 +8639,182 @@
     "ImageId": "",
     "SoundId": "rbxassetid://109873396681952",
     "Speed": 0.43
+		},
+		{
+    "Title": "MAISON",
+    "Artist": "Dreamcatcher",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://113813661344536",
+    "Speed": 0.25
+},
+{
+    "Title": "BATTER UP",
+    "Artist": "BABYMONSTER",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://77611022514714",
+    "Speed": 0.25
+},
+{
+    "Title": "SHEESH",
+    "Artist": "BABYMONSTER",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://89967841735727",
+    "Speed": 0.25
+},
+{
+    "Title": "DRIP",
+    "Artist": "BABYMONSTER",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://79069786492875",
+    "Speed": 0.25
+},
+{
+    "Title": "FOREVER",
+    "Artist": "BABYMONSTER",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://124277750978592",
+    "Speed": 0.25
+},
+{
+    "Title": "CLIK CLAK",
+    "Artist": "BABYMONSTER",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://74491165987455",
+    "Speed": 0.25
+},
+{
+    "Title": "STUCK IN THE MIDDLE",
+    "Artist": "BABYMONSTER",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://80265456831722",
+    "Speed": 0.25
+},
+{
+    "Title": "DREAM",
+    "Artist": "BABYMONSTER",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://73407545201457",
+    "Speed": 0.25
+},
+{
+    "Title": "LIKE THAT",
+    "Artist": "BABYMONSTER",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://112055114682375",
+    "Speed": 0.25
+},
+{
+    "Title": "LOVE IN MY HEART",
+    "Artist": "BABYMONSTER",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://134771892667801",
+    "Speed": 0.25
+},
+{
+    "Title": "BILLIONAIRE",
+    "Artist": "BABYMONSTER",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://122957353342627",
+    "Speed": 0.25
+},
+{
+    "Title": "ENERGETIC",
+    "Artist": "Wanna One",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://94471494634892",
+    "Speed": 0.25
+},
+{
+    "Title": "BOOMERANG",
+    "Artist": "Wanna One",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://88280289302217",
+    "Speed": 0.25
+},
+{
+    "Title": "BEAUTIFUL",
+    "Artist": "Wanna One",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://122327006832342",
+    "Speed": 0.25
+},
+{
+    "Title": "BANG BANG BANG",
+    "Artist": "BIGBANG",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://85251632651318",
+    "Speed": 0.25
+},
+{
+    "Title": "FANTASTIC BABY",
+    "Artist": "BIGBANG",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://116528346582840",
+    "Speed": 0.25
+},
+{
+    "Title": "HARU HARU",
+    "Artist": "BIGBANG",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://80709273756459",
+    "Speed": 0.25
+},
+{
+    "Title": "BAD BOY",
+    "Artist": "BIGBANG",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://121058477991016",
+    "Speed": 0.25
+},
+{
+    "Title": "SCREAM",
+    "Artist": "Dreamcatcher",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://130150409615665",
+    "Speed": 0.25
+},
+{
+    "Title": "CHASE ME",
+    "Artist": "Dreamcatcher",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://100010533660545",
+    "Speed": 0.25
+},
+{
+    "Title": "YOU AND I",
+    "Artist": "Dreamcatcher",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://75866817518194",
+    "Speed": 0.25
+},
+{
+    "Title": "GOOD NIGHT",
+    "Artist": "Dreamcatcher",
+    "Genre": "KPOP",
+    "ImageId": "",
+    "SoundId": "rbxassetid://116839226886869",
+    "Speed": 0.25
 		}
 	]
 }
