@@ -8641,12 +8641,180 @@
     "Speed": 0.43
 		},
 		{
+    "Title": "SELAMAT ULANG TAHUN (POP PUNK ROCK COVER)",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://129502785294053",
+    "Speed": 0.43
+},
+{
+    "Title": "HAPPY BIRTHDAY REMIX",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://114108735341431",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ GELORA ASMARA BREAKBEAT",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://95550027186539",
+    "Speed": 0.43
+},
+{
+    "Title": "MENDUA (BREAKBEAT KOPLO)",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://99921092739861",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ PERCERAIAN LARA",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://102360627379234",
+    "Speed": 0.43
+},
+{
+    "Title": "MARI BERCINTA (KOPLO REMIX)",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://113781398431570",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ BERDUA LEBIH BAIK",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://79077008310353",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ ASTAGA BERCANDA X BRAZIL DANCE",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://139895932268962",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ JOMBLO HEPPY X NENEKKU PAHLAWANKU",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://78541199565989",
+    "Speed": 0.43
+},
+{
+    "Title": "BABY DON'T GO",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://98233178362770",
+    "Speed": 0.43
+},
+{
+    "Title": "CINTAKU (KOPLO VERSION)",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://113388958688632",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ YOU DON'T EVEN KNOW ME BREAKBEAT",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://106065443505284",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ SHOW ME LOVE",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://99480432292963",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ JEALOUSY",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://125873142154876",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ NUEVAYOL",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://78656421334227",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ MAMBO JAMBO",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://80779487610713",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ PEOPLE",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://127951804244628",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ KISS IT BETTER",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://74270967664146",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ BEAUTY AND BEAT",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://132947708909588",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ GGS",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://98157361743659",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ SIALAN",
+    "Artist": "DJ Devour",
+    "Genre": "DJ REMIX",
+    "ImageId": "",
+    "SoundId": "rbxassetid://137581835763564",
+    "Speed": 0.43
+	},
+	{
     "Title": "MAISON",
     "Artist": "Dreamcatcher",
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://113813661344536",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "BATTER UP",
@@ -8654,7 +8822,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://77611022514714",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "SHEESH",
@@ -8662,7 +8830,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://89967841735727",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "DRIP",
@@ -8670,7 +8838,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://79069786492875",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "FOREVER",
@@ -8678,7 +8846,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://124277750978592",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "CLIK CLAK",
@@ -8686,7 +8854,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://74491165987455",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "STUCK IN THE MIDDLE",
@@ -8694,7 +8862,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://80265456831722",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "DREAM",
@@ -8702,7 +8870,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://73407545201457",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "LIKE THAT",
@@ -8710,7 +8878,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://112055114682375",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "LOVE IN MY HEART",
@@ -8718,7 +8886,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://134771892667801",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "BILLIONAIRE",
@@ -8726,7 +8894,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://122957353342627",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "ENERGETIC",
@@ -8734,7 +8902,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://94471494634892",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "BOOMERANG",
@@ -8742,7 +8910,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://88280289302217",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "BEAUTIFUL",
@@ -8750,7 +8918,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://122327006832342",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "BANG BANG BANG",
@@ -8758,7 +8926,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://85251632651318",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "FANTASTIC BABY",
@@ -8766,7 +8934,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://116528346582840",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "HARU HARU",
@@ -8774,7 +8942,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://80709273756459",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "BAD BOY",
@@ -8782,7 +8950,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://121058477991016",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "SCREAM",
@@ -8790,7 +8958,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://130150409615665",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "CHASE ME",
@@ -8798,7 +8966,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://100010533660545",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "YOU AND I",
@@ -8806,7 +8974,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://75866817518194",
-    "Speed": 0.25
+    "Speed": 0.43
 },
 {
     "Title": "GOOD NIGHT",
@@ -8814,7 +8982,7 @@
     "Genre": "KPOP",
     "ImageId": "",
     "SoundId": "rbxassetid://116839226886869",
-    "Speed": 0.25
+    "Speed": 0.43
 		}
 	]
 }
